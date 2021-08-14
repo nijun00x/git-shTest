@@ -1,5 +1,7 @@
 hello git! hello atguigu!  hahah
 hello git! hello atguigu!  xixixi
+hello git! hello atguigu!  hoho
+hello git! hello atguigu!  hihi
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
@@ -9,8 +11,6 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
-hello git! hello atguigu!
+hello git! hello atguigu!  hot-fix test
 hello git! hello atguigu!
 hello git! hello atguigu!
